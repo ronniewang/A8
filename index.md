@@ -6,3 +6,6 @@ index
 * [2019-Q2](./growth_record/2019/2019-q2.md)
 
 [我的书柜](bookcase.md)
+
+
+[保险](./insurance/index.md)
