@@ -23,3 +23,7 @@
 [我的书柜](bookcase.md)
 
 [保险](./insurance/index.md)
+
+# 随笔
+
+* [四本关于财商的书](./post/四本关于财商的书.md)
