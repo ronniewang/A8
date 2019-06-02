@@ -19,6 +19,7 @@
 
 * [2019-Q1](./growth_record/2019/2019-q1.md)
 * [2019-Q2](./growth_record/2019/2019-q2.md)
+  * [Redis 的 RDB 持久化](./redis/Redis%20的%20RDB%20持久化.md)
 
 [我的书柜](bookcase.md)
 
