@@ -17,9 +17,9 @@
 
 每个季度设置至少 3 个主要目标，季度结束时进行总结，并设置下个季度的目标
 
-* [2019-Q1](./growth_record/2019/2019-q1.md)
 * [2019-Q2](./growth_record/2019/2019-q2.md)
 
+经过上面 Q2 的实践，改变了目标的设定方式，请看[是时候调整目标设定方式了](./growth_record/how-to-set-a-goal.md)
 [我的书柜](bookcase.md)
 
 [保险](./insurance/index.md)
